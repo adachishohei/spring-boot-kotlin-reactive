@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.miku:r2dbc-mysql:0.8.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.miku/r2dbc-mysql/0.8.0.RELEASE/3341fa4bf03ecf4b36e249c4d383955b1a4f3acf/r2dbc-mysql-0.8.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.miku/r2dbc-mysql/0.8.0.RELEASE/49a30aad2d474d5e2a9a867e66a56d7c2c4d9045/r2dbc-mysql-0.8.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

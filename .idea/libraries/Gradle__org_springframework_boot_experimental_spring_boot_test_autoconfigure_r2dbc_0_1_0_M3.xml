@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot.experimental:spring-boot-test-autoconfigure-r2dbc:0.1.0.M3">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Could not resolve org.springframework.boot.experimental:spring-boot-test-autoconfigure-r2dbc:0.1.0.M3." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot.experimental/spring-boot-test-autoconfigure-r2dbc/0.1.0.M3/dcff25d32d002c747a2adac1968499b91f7ef760/spring-boot-test-autoconfigure-r2dbc-0.1.0.M3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot.experimental/spring-boot-test-autoconfigure-r2dbc/0.1.0.M3/a7e027d5f702ad1f47c77eeb4adc3bdb502d4611/spring-boot-test-autoconfigure-r2dbc-0.1.0.M3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
